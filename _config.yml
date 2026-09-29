@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Qize Li"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Qize Li"
+description              : &description "Qize Li's academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ga1axy0.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Qize Li"
   pronouns         : # example: "she/her"  
-  bio              : " "
+  bio              : "Incoming Ph.D. student at HUST"
   location         : "Zhejiang, China"
   employer         : "Hangzhou Dianzi University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : # URL - Update with the correct link to your profile
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/0009-0001-4030-4055
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -222,16 +222,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in Computer Science at Hangzhou Dianzi University. My interests lie in high-performance computer architecture, high-performance computing,and hardware-software co-design for AI systems.
+I will join [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) as a Ph.D. student in Fall 2027, advised by [Prof. Chencheng Ye](https://faculty.hust.edu.cn/YECHENCHENG/zh_CN/index.htm). I am currently completing my B.Eng. in Computer Science at [Hangzhou Dianzi University](https://en.hdu.edu.cn/). My research interests lie at the intersection of computer architecture and AI systems, with a focus on hardware-software co-design, compiler and runtime optimization, and high-performance kernels.
 
-## Research Interests
+## News
 
-- High-Performance Computer Architecture and Microarchitecture
-- AI end-to-end Optimization and Runtime Systems
-- Hardware-Software Co-design for AI/HPC
-- Performance Modeling and Workload-driven Optimization
+- **Sep. 2026** - Admitted to the Ph.D. program at HUST, starting in Fall 2027.
+- **Aug. 2026** - Won First Prize in the Kernel Implementation Track of the National Student Computer System Capability Challenge - Operating System Design Competition.
+- **Jun. 2026** - Completed my internship at SpacemiT, contributing RVV kernels and JIT instruction support to open-source projects including oneDNN and Xbyak_riscv.
 
-## Current Works
 
-- RV64/RVV-based Deep Learning end-to-end Optimization
-- Redundancy-Constrained Parallelization
+## Research
+
+- [PPoPP 2027] URFA: Recovering and Auditing Data-Preparation Amplification in Parallel Tensor Schedules <br>
+*Manuscript under review, 2026.*
+
