@@ -18,7 +18,9 @@ Advisor: [Prof. Chencheng Ye](https://faculty.hust.edu.cn/YECHENCHENG/zh_CN/inde
 
 ### [Veloxis AI](https://www.veloxis-tech.com/index.html)
 
-**Incoming AI System Architect Intern, starting Oct. 2026**
+**AI Hardware and Software Architecture Intern, Oct. 2026 - Present**
+
+- Responsible for high-performance AI hardware and software architecture, defining the full GPNPU software stack and providing feedback to inform chip architecture design.
 
 ### [SpacemiT](https://www.spacemit.com/)
 

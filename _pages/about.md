@@ -18,8 +18,4 @@ My research interests lie at the intersection of computer architecture and AI sy
 - **Jun. 2026** - Completed my internship at SpacemiT, contributing RVV kernels and JIT instruction support to open-source projects including oneDNN and Xbyak_riscv.
 
 
-## Research
-
-- **[PPoPP 2027]** URFA: Recovering and Auditing Data-Preparation Amplification in Parallel Tensor Schedules <br>
-*Manuscript under review, 2026.*
 
